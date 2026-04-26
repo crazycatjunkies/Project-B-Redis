@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/client.swf",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/x-shockwave-flash"
+        }
+      ]
+    }
+  ]
+}
